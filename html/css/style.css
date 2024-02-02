@@ -1,27 +1,20 @@
-body{
-    color: rgb(147, 147, 225);
+body{color: rgb(147, 147, 225);
 }
-span{
-    color: purple
-
+span{color: purple
 }
 h1{
 font-size: 30px;
-
 }
 h2{
 font-size: 50px;
 color: brown;
 }
-
 .big{ 
     color: pink;
 }
 .small{
 color: yellow;
-
 }
-
 .big.uppercase{
     color: crimson;
 }
