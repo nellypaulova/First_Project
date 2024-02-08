@@ -5,6 +5,7 @@ body{
    line-height: 30px;
    background-color: rgb(235, 215, 200);
 }
+/* header styles */
 header{
     background-color: red;
     text-align: center;
@@ -30,6 +31,7 @@ header img{
     width: 250px;
     border: 8px solid rgb(137, 0, 0)
 }
+/* main styles */
 main{ 
     max-width: 800px;
     margin: 0 auto;
@@ -40,6 +42,7 @@ main{
 main img{
     max-width: 100%;
 }
+/* link styles */
 a{
     color: darkred;
 }
@@ -47,6 +50,7 @@ a:hover{
     color: red;
    
 }
+/* footer styles */
 footer{
     background-color: red;
     margin: 0;
